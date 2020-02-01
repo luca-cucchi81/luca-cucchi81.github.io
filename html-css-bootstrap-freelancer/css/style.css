@@ -2,10 +2,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-main{
-    overflow:  auto;
-}
 .lc--bg--dark {
     background-color: #2c3e50;
     color: #ffffff ;
@@ -60,12 +56,12 @@ main{
 }
 
 .jumbotron h2{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
 }
 
 .jumbotron h3{
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .lc--star,
