@@ -281,12 +281,12 @@ footer{
 }
 
 @media screen and (max-width: 767px){
-    .jumbotron h2{
+     h2{
         font-size: 40px;
         font-weight: 700;
     }
 
-    .jumbotron h3{
+    h3{
         font-size: 20px;
     }
 }
