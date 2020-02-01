@@ -58,7 +58,6 @@
 .jumbotron h2{
     font-size: 60px;
     font-weight: 700;
-    padding: 0 30px;
 }
 
 .jumbotron h3{
@@ -279,4 +278,15 @@ footer{
     font-size: 13px;
     padding-top: 30px;
     padding-bottom: 20px;
+}
+
+@media screen and (max-width 767px){
+    .jumbotron h2{
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .jumbotron h3{
+        font-size: 20px;
+    }
 }
